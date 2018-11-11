@@ -65,7 +65,7 @@ body {
 /* navigation styles start */
 
 header {
-    background: var(--background);
+    background: rgba(85, 214, 170, .70);
     text-align: center;
     position: fixed;
     z-index: 999;
@@ -128,7 +128,7 @@ nav {
     position: absolute;
     text-align: left;
     top: 100%;
-    background: var(--background);
+    background: rgba(85, 214, 170, .70);
     width: 100%;
     left: 0;
     transform: scale(1, 0);
